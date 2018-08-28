@@ -9,7 +9,7 @@ public class positive
         {
           System.out.println("a is positive");
          }
-         elseif(a<0)
+         else if(a<0)
          {
          System.out.println("a is negative");
          }
